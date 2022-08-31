@@ -31,3 +31,24 @@ p{
 .col1 img{
     display: none;
 }
+
+/**this is a css comment**/
+
+/**hero section**/
+.hero{
+    height: 100vh;
+    background-image: url("cat_background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.intro{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    
+
+}
+
